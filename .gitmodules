@@ -1,3 +1,6 @@
 [submodule "UberBagarre/lib/forge-std"]
 	path = UberBagarre/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "UberBagarre/lib/openzeppelin-contracts"]
+	path = UberBagarre/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
